@@ -1,6 +1,6 @@
 
 body{
-  font-family:"Helvetirial setif;
+  font-family:"Helvetirial","arial", setif;
   color:#333;
   background-color:#ccc;
   margin:lem 10%;
@@ -27,3 +27,6 @@ img{
   display:block;
   clear:both;
 }
+#image{list-style:none;}
+#image li{ display: inline;}
+#image li a img{border:0;}
